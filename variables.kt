@@ -1,8 +1,8 @@
 // Variables in Kotlin
 
 //Variables is of 2 Types :-
-// 1. var = it can be reassined
-// 2. val = it can not be reassigned
+// 1. var = it can be reassined or re-edited
+// 2. val = it can not be reassigned or permanently stable
 
 //                  var - variable example
 /*
